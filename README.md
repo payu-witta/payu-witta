@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ☕️ About Me:
 Honors CS and Math double major at UMass Amherst.<br><br>Undergraduate AI/ML researcher and engineer at UMass Amherst focused on building systems that turn machine learning ideas into reliable, real-world tools.<br><br>Experience spans LLM evaluation research, NL2SQL pipelines, and full-stack AI products, with interests in applied ML, RL, AI infrastructure engineering, and high-performance software engineering.
 
 
